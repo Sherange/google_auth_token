@@ -1,0 +1,9 @@
+{
+  "name": "google_auth_token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^85.0.0"
+  }
+}
